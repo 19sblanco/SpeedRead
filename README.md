@@ -1,5 +1,5 @@
 # SpeedRead
-A Christmas present for my Dad 2021
+A Christmas present for my Dad 2021. My father is a slow reader so I created this application to help him read faster.
 
 ### Description
 This is a commandline program that is designed to help people read faster.
